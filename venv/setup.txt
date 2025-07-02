@@ -5,5 +5,4 @@
 5. Exporting dependancies: pip freeze > requirements.txt
 6. Importing dependancies from requirements.txt: pip install -r requirements.txt
 
-
 Note: env is a variable name and can be called .venv to be hidden. Can also be put in .gitignore
